@@ -1,0 +1,12 @@
+:root {
+    --body-fs:1.6rem;
+    --body-lh:1.5;
+    --main-ff:"Poppins",sans-serif;
+    --peach: #FFD3AF;
+    --white-full: #FFFFFF;
+    --orange: #FFA155;
+    --white-light: rgba(255, 255, 255, 0.4); 
+    --navy: #232536;
+    --blue: #4F56FF;
+    --navy-blue: #666DFF;
+}
